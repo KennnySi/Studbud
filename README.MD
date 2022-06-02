@@ -19,7 +19,7 @@ KanBan Broad is an agile project management tool designed to help visualize work
 In the dictionary section, users can use the dictionary to look up words that they do not know or are not sure about, and get explanations.
 
 # **Model iteration**
-Based on feedback from A2, I iterate on the mockup.
+Based on feedback from A2, I iterate on the mockup. I have explored many web sites and I have explored and researched the layout of these sites. By exploring I found some information, most web programs like to put the navigation bar on the left side of the page, people also prefer this layout, the left side navigation is easier to navigate, it has stronger usability in the design, it does not require the user Lookups on sight, as users will subconsciously notice their presence. I changed my mockup based on this information.
 
 #### **Original Design**
 ![Homepage](original%20design/Homepage.png)
