@@ -48,3 +48,7 @@ Dictionary Public-Apis. (n.d.). Public-apis/public-apis: A collective list of Fr
 HTML. HTML Standard. (2022, May 26). Retrieved from https://html.spec.whatwg.org/multipage/dnd.html#drag-and-drop-processing-model 
 
 How to - toggle switch. How To Create a Toggle Switch. (n.d.). Retrieved from https://www.w3schools.com/howto/howto_css_switch.asp 
+
+Trending web &amp; landing page designs. Trending Website, Landing Page and Splash Page Designs on Dribbble. (n.d.). Retrieved from https://dribbble.com/shots/popular/web-design 
+
+👑 the #1 place for design files. UpLabs. (n.d.). Retrieved from https://www.uplabs.com/ 
