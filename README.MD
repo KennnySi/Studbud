@@ -19,7 +19,7 @@ KanBan Broad is an agile project management tool designed to help visualize work
 In the dictionary section, users can use the dictionary to look up words that they do not know or are not sure about, and get explanations.
 
 # **Model iteration**
-Based on feedback from A2, I iterate on the mockup. I have explored many web sites and I have explored and researched the layout of these sites. By exploring I found some information, most web programs like to put the navigation bar on the left side of the page, people also prefer this layout, the left side navigation is easier to navigate, it has stronger usability in the design, it does not require the user Lookups on sight, as users will subconsciously notice their presence. I changed my mockup layout based on this information.
+Based on feedback from A2, I iterate on the mockup. I have explored many web sites and I have explored and researched the layout of these sites. By exploring I found some information, most web programs like to put the navigation bar on the left side of the page, people also prefer this layout, the left side navigation is easier to navigate, it has stronger usability in the design, it does not require the user Lookups on sight, as users will subconsciously notice their presence. I changed my mockup layout based on this information. When I was completing Assessment 3, I ran into some problems and I raised my issues with drew and resolved them based on the feedback I received from drew.
 
 #### **Original Design**
 ![Homepage](original%20design/Homepage.png)
@@ -39,6 +39,8 @@ Based on feedback from A2, I iterate on the mockup. I have explored many web sit
 In this assessment, I used some js external libraries and APIs, they can help me complete the assessment better.
 
 # **Reference** 
+Attention. (2018, May 11). Charlie Puth. NetEase Cloud Music. Retrieved from https://music.163.com/#/song?id=473817398. 
+
 Chart - apache echarts. (n.d.). Retrieved from https://echarts.apache.org/examples/en/index.html 
 
 Drag &amp; drop - vanilla javascript with comments - codepen. (n.d.). Retrieved from https://codepen.io/szrudi/pen/gOpLyKd 
